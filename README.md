@@ -4,4 +4,4 @@
 
 - ⚒️ Java
 - 📦 Developing [Hermes](https://github.com/readUTF/Hermes) and more.
-- 🌱 I’m currently learning JavaScript/Electron
+- 🌱 Currently learning Rust
